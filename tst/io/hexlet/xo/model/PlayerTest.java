@@ -8,7 +8,7 @@ public class PlayerTest {
 
     @Test
     public void testGetName() throws Exception {
-        final String inputValue = "Slava";
+        final String inputValue = "Player1";
         final String expectedValue = inputValue;
 
         final Player player = new Player(inputValue, null);
