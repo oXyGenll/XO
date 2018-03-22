@@ -4,9 +4,6 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-/**
- * Created by b0noI on 25/06/15.
- */
 public class PlayerTest {
 
     @Test

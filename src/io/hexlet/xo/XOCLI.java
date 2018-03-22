@@ -10,8 +10,8 @@ import io.hexlet.xo.view.ConsoleView;
 public class XOCLI {
 
     public static void main(final String[] args) {
-        final String name1 = "Gleb";
-        final String name2 = "Slava";
+        final String name1 = "Player1";
+        final String name2 = "Player2";
 
         final Player[] players = new Player[2];
         players[0] = new Player(name1, Figure.X);
